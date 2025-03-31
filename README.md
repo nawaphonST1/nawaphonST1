@@ -18,6 +18,7 @@ I enjoy solving problems, exploring new knowledge, and learning endlessly.
 
 #### 🔹 IoT & Microcontrollers
 - 🔌 ESP32, ATmega328P, Arduino
+- 📡 GNSS, NMEA, u-blox Center
 
 #### 🔹 Mobile Development
 - 📱 React Native, Android Studio
